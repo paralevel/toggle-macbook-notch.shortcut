@@ -10,3 +10,6 @@ _Advantages_
 - restores the original pre-Apple Silicon MacBook design
 
 Run the shortcut again to have the notch back in the middle of the menu bar
+\
+\
+[Install latest version](https://github.com/paralevel/toggle-macbook-notch.shortcut/releases)
