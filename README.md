@@ -1,4 +1,4 @@
-# Toggle MacBook Notch Off/On
+# Toggle MacBook Notch Off/On (shortcut)
 
 This shortcut moves the entire menubar beneath the camera housing (the “notch”) on Apple Silicon MacBooks, using AppleScript to automate the procedure described [here](https://apple.stackexchange.com/questions/432284/make-macbook-pro-as-if-there-is-no-notch/472341#472341).
 
