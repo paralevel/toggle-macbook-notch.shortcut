@@ -1,6 +1,6 @@
 # Toggle Notch Off/On (shortcut)
 
-This shortcut removes the notch from the screen area on Apple Silicon MacBooks, using AppleScript to automate the procedure described [here](https://apple.stackexchange.com/questions/432284/make-macbook-pro-as-if-there-is-no-notch/472341#472341).
+This shortcut removes the notch on Apple Silicon MacBooks, using AppleScript to automate the procedure described [here](https://apple.stackexchange.com/questions/432284/make-macbook-pro-as-if-there-is-no-notch/472341#472341).
 
 _Advantages_
 
