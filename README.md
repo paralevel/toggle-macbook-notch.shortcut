@@ -11,4 +11,4 @@ _Advantages_
 - enjoy screensavers without the constant presence of an annoying black object at the top of the screen
 - restores the original pre-Apple Silicon MacBook design
 
-Run the shortcut again to have the notch back in the middle of the menu bar
+_Run the shortcut again to have the notch back in the middle of the menu bar_
