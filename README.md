@@ -1,5 +1,7 @@
 # Toggle Notch Off/On (shortcut)
 
+[Install the latest version](https://github.com/paralevel/toggle-macbook-notch.shortcut/releases)
+
 This shortcut removes the notch on Apple Silicon MacBooks, using AppleScript to automate the procedure described [here](https://apple.stackexchange.com/questions/432284/make-macbook-pro-as-if-there-is-no-notch/472341#472341).
 
 _Advantages_
@@ -10,6 +12,3 @@ _Advantages_
 - restores the original pre-Apple Silicon MacBook design
 
 Run the shortcut again to have the notch back in the middle of the menu bar
-\
-\
-[Install latest version](https://github.com/paralevel/toggle-macbook-notch.shortcut/releases)
