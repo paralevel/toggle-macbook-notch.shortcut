@@ -1,4 +1,4 @@
-# Toggle MacBook Notch Off/On (shortcut)
+# Toggle MacBook Notch (shortcut)
 
 [__Install latest version__](https://github.com/paralevel/toggle-macbook-notch.shortcut/releases)
 \
