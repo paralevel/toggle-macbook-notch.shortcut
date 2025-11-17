@@ -3,7 +3,7 @@
 [__Install latest version__](https://github.com/paralevel/toggle-macbook-notch.shortcut/releases)
 \
 \
-This shortcut removes the notch on Apple Silicon MacBooks, using AppleScript (entirely in the background) to automate the procedure described [here](https://apple.stackexchange.com/questions/432284/make-macbook-pro-as-if-there-is-no-notch/472341#472341)
+This shortcut removes the notch on Apple Silicon MacBooks, using AppleScript to (entirely in the background) automate the procedure described [here](https://apple.stackexchange.com/questions/432284/make-macbook-pro-as-if-there-is-no-notch/472341#472341)
 
 _Advantages_
 
