@@ -1,6 +1,8 @@
 # Toggle MacBook Notch (shortcut)
 
-https://www.icloud.com/shortcuts/e9e6285b9ab6473a821e68f4767f326c <sub>_(last updated 2025-11-19 15:26 UTC)_</sub>
+Version 1.0.5 (2025-11-20 06:44 UTC)
+
+https://www.icloud.com/shortcuts/b416dd9c86f143e78543b4a185299079
 \
 \
 This shortcut removes the notch on Apple Silicon MacBooks, using AppleScript to automate (entirely in the background) the procedure described here: https://apple.stackexchange.com/questions/432284/make-macbook-pro-as-if-there-is-no-notch/472341#472341
