@@ -1,0 +1,1 @@
+# toggle-macbook-notch.shortcut
